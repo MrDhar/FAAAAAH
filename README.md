@@ -24,20 +24,6 @@
 
 ---
 
-## 🐈‍⬛ Meet the mascot
-
-<table>
-<tr>
-<td width="200" align="center"><img src="docs/images/mascot.gif" width="180" alt="Animated Faaaaaah mascot"></td>
-<td>
-
-A grumpy cat in a hoodie, headphones on, laptop open, ready to yell at every keystroke.
-Every key you press gets a loud, unnecessary <b>FAAAAAH</b>.
-
-</td>
-</tr>
-</table>
-
 ## ✨ Features
 
 - 🔊 **Plays on every keypress**, system-wide, in any app
