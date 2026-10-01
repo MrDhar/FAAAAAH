@@ -153,9 +153,9 @@ Faaaaaah in action
 
 https://github.com/user-attachments/assets/e615f93d-e1b6-4789-877c-b94ba3d33e23
 
-More gameplay
+⌨️ Assign Keys
 
-https://github.com/user-attachments/assets/56174f9f-c506-48ef-8540-e4cd2187d73
+https://github.com/user-attachments/assets/801105de-882f-4f45-ba29-da9a46b5c966
 
 ### Adding your own sounds
 
