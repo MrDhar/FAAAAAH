@@ -147,11 +147,16 @@ Get-FileHash .\Faaaaaah-Setup.exe -Algorithm SHA256
 3. Use the **toggle** in the top-right corner to pause the sound, and the **slider** to adjust the volume.
 4. Click **▶ Play Faaaaaah** to test the sound.
 
-## 🎬 Demo
+<h2>🎬 Demo</h2>
 
-Watch Faaaaaah in action:
-
-[▶️ Play the Faaaaaah Demo](docs/images/Picsart_26-10-01_14-20-23-222.mp4)
+<p align="center">
+  <video src="docs/images/Picsart_26-10-01_14-20-23-222.mp4"
+         controls
+         muted
+         playsinline
+         width="100%">
+  </video>
+</p>
 
 ### Adding your own sounds
 
