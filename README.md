@@ -147,13 +147,13 @@ Get-FileHash .\Faaaaaah-Setup.exe -Algorithm SHA256
 3. Use the **toggle** in the top-right corner to pause the sound, and the **slider** to adjust the volume.
 4. Click **▶ Play Faaaaaah** to test the sound.
 
-🎬 Demo
+🎬  Demo
 
 Faaaaaah in action
 
 https://github.com/user-attachments/assets/e615f93d-e1b6-4789-877c-b94ba3d33e23
 
-Assign keys
+More gameplay
 
 https://github.com/user-attachments/assets/56174f9f-c506-48ef-8540-e4cd2187d73
 
