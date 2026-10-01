@@ -149,9 +149,9 @@ Get-FileHash .\Faaaaaah-Setup.exe -Algorithm SHA256
 
 ## 🎬 Demo
 
-<video src="docs/images/Picsart_26-10-01_14-20-23-222.mp4" controls width="100%"></video>
+Watch Faaaaaah in action:
 
-<video src="docs/images/Picsart_26-10-01_14-20-23-222.mp4" controls width="100%"></video>
+[▶️ Play the Faaaaaah Demo](docs/images/Picsart_26-10-01_14-20-23-222.mp4)
 
 ### Adding your own sounds
 
