@@ -279,22 +279,6 @@ MIT, see [`LICENSE`](LICENSE). Contributions welcome: open an issue or pull requ
   <sub>Made with too much caffeine and one very loud cat.</sub>
 </p>
 
-## Project structure
-
-```text
-main.py                         App entry point
-faaaaaah/core/config.py        Paths, branding, theme constants
-faaaaaah/core/settings.py      Persistent settings
-faaaaaah/core/audio.py         Audio engine
-faaaaaah/core/keyboard.py      Global keyboard listener
-faaaaaah/core/keys.py          Key normalization helpers
-faaaaaah/core/sounds.py        Custom/preset sound library
-faaaaaah/ui/widgets.py         Reusable UI controls
-faaaaaah/ui/dialogs.py         Key assignment dialog
-faaaaaah/ui/app.py             UI composition and page behavior
-installer/                     OS-specific installers
-assets/                        Mascot, icon and preset sound
-```
 
 The core services are intentionally separated from the UI so changing the interface does not require changing audio, keyboard, settings, or sound-library code.
 
