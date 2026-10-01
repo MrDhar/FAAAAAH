@@ -141,7 +141,7 @@ Get-FileHash .\Faaaaaah-Setup.exe -Algorithm SHA256
 ---
 
 ## 🎮 Usage
-
+"docs/images/Picsart_26-10-01_14-20-23-222.mp4"
 1. Open **Faaaaaah**. It's ready straight away.
 2. Type anywhere. Every key goes **FAAAAAH**.
 3. Use the **toggle** (top right) to pause the sound, and the **slider** for volume.
